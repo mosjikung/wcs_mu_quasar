@@ -1,0 +1,90 @@
+--START TIME:'2021-09-21 05:04:05pm	127.0.0.1'--
+xxxx
+--END-- 
+
+--START TIME:'2021-09-21 05:21:36pm	127.0.0.1'--
+Error Execute Scan Check Barcode! : ORA-06550: line 4, column 17:
+PLS-00103: Encountered the symbol ")" when expecting one of the following:
+
+   ( - + case mod new not null <an identifier>
+   <a double-quoted delimited-identifier> <a bind variable>
+   continue avg count current exists max min prior sql stddev
+   sum variance execute forall merge time timestamp interval
+   date <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <an alternatively-quoted string literal with character set specification>
+   <an alternatively
+--END-- 
+
+--START TIME:'2021-09-21 05:23:20pm	127.0.0.1'--
+Error Execute Scan Check Barcode! : ORA-06550: line 4, column 17:
+PLS-00103: Encountered the symbol ")" when expecting one of the following:
+
+   ( - + case mod new not null <an identifier>
+   <a double-quoted delimited-identifier> <a bind variable>
+   continue avg count current exists max min prior sql stddev
+   sum variance execute forall merge time timestamp interval
+   date <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <an alternatively-quoted string literal with character set specification>
+   <an alternatively
+--END-- 
+
+--START TIME:'2021-09-21 05:59:19pm	127.0.0.1'--
+Error Execute Scan Check Barcode! : ORA-06550: line 4, column 17:
+PLS-00103: Encountered the symbol ")" when expecting one of the following:
+
+   ( - + case mod new not null <an identifier>
+   <a double-quoted delimited-identifier> <a bind variable>
+   continue avg count current exists max min prior sql stddev
+   sum variance execute forall merge time timestamp interval
+   date <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <an alternatively-quoted string literal with character set specification>
+   <an alternatively
+--END-- 
+
+--START TIME:'2021-09-21 06:01:33pm	127.0.0.1'--
+Error Execute Scan Check Barcode! : ORA-06550: line 4, column 17:
+PLS-00103: Encountered the symbol ")" when expecting one of the following:
+
+   ( - + case mod new not null <an identifier>
+   <a double-quoted delimited-identifier> <a bind variable>
+   continue avg count current exists max min prior sql stddev
+   sum variance execute forall merge time timestamp interval
+   date <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <an alternatively-quoted string literal with character set specification>
+   <an alternatively
+--END-- 
+
+--START TIME:'2021-09-21 06:01:40pm	127.0.0.1'--
+Error Execute Scan Check Barcode! : ORA-06550: line 4, column 17:
+PLS-00103: Encountered the symbol ")" when expecting one of the following:
+
+   ( - + case mod new not null <an identifier>
+   <a double-quoted delimited-identifier> <a bind variable>
+   continue avg count current exists max min prior sql stddev
+   sum variance execute forall merge time timestamp interval
+   date <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <an alternatively-quoted string literal with character set specification>
+   <an alternatively
+--END-- 
+
+--START TIME:'2021-09-21 06:05:23pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=qweqw,BARCODE=eqwe - -
+--END-- 
+
+--START TIME:'2021-09-21 06:05:56pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=qweqw,BARCODE=eqwe - -
+--END-- 
+
+--START TIME:'2021-09-21 06:09:06pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=asdas,BARCODE=dasdasd - -
+--END-- 
+
+--START TIME:'2021-09-21 06:15:25pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=asdas,BARCODE=dasdasd - -
+--END-- 
+

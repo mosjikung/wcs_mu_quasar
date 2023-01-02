@@ -1,0 +1,172 @@
+--START TIME:'2021-09-29 08:22:14am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:22:14am	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 08:23:48am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:23:48am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:23:52am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:23:52am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:24:20am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:24:20am	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 08:25:48am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:25:48am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:25:50am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:25:50am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:25:52am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:25:52am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:25:55am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:25:55am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:25:58am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:25:58am	127.0.0.1'--
+Job not found !!
+--END-- 
+
+--START TIME:'2021-09-29 08:49:28am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 08:49:28am	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 11:45:14am	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 11:45:14am	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 11:52:07am	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=123,BARCODE=123--
+--END-- 
+
+--START TIME:'2021-09-29 11:52:12am	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=123,BARCODE=123--
+--END-- 
+
+--START TIME:'2021-09-29 11:52:16am	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=123,BARCODE=123--
+--END-- 
+
+--START TIME:'2021-09-29 11:52:23am	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=4321,BARCODE=4321--
+--END-- 
+
+--START TIME:'2021-09-29 11:57:55am	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=123,BARCODE=123--
+--END-- 
+
+--START TIME:'2021-09-29 11:59:22am	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=23432,BARCODE=234--
+--END-- 
+
+--START TIME:'2021-09-29 12:00:45pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=2132131,BARCODE=123--
+--END-- 
+
+--START TIME:'2021-09-29 12:00:50pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=1234,BARCODE=5521--
+--END-- 
+
+--START TIME:'2021-09-29 12:00:53pm	127.0.0.1'--
+Error pda_qc_output_check_barcode() USER=12342,BARCODE=215124--
+--END-- 
+
+--START TIME:'2021-09-29 01:27:50pm	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 01:27:50pm	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 04:21:15pm	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 04:21:15pm	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 04:53:05pm	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 04:53:05pm	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 05:01:37pm	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 05:01:37pm	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 05:28:01pm	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 05:28:01pm	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
+--START TIME:'2021-09-29 05:37:54pm	127.0.0.1'--
+true
+--END-- 
+
+--START TIME:'2021-09-29 05:37:54pm	127.0.0.1'--
+Dupplicate Job !!
+--END-- 
+
